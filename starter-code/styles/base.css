@@ -5,6 +5,10 @@ body {
   font-size: 100%;
   color: #313131;
 }
+img{
+  width: 100%;
+}
+
 
 hr {
   margin: 1em;
